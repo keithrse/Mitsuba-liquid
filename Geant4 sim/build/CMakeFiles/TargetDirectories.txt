@@ -1,0 +1,4 @@
+/root/anaconda3/envs/geant/share/Geant4-11.0.0/sim/build/CMakeFiles/sim.dir
+/root/anaconda3/envs/geant/share/Geant4-11.0.0/sim/build/CMakeFiles/Simulation.dir
+/root/anaconda3/envs/geant/share/Geant4-11.0.0/sim/build/CMakeFiles/edit_cache.dir
+/root/anaconda3/envs/geant/share/Geant4-11.0.0/sim/build/CMakeFiles/rebuild_cache.dir
