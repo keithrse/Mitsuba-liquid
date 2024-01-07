@@ -12,16 +12,4 @@ MyPhysicsList::MyPhysicsList()
 
 MyPhysicsList::~MyPhysicsList()
 {}
-/*
-void MyPhysicsList::ConstructProcess()
-{
-    // Get the process manager for optical photons
-    G4ProcessManager* processManager = G4OpticalPhoton::OpticalPhoton()->GetProcessManager();
 
-    // Remove Rayleigh scattering process for optical photons
-    if (processManager) {
-        G4OpRayleigh* rayleighProcess = new G4OpRayleigh();
-        processManager->InActivateProcess(rayleighProcess);
-    }
-}
-*/
