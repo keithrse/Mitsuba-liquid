@@ -1,3 +1,9 @@
+/*
+The code written here was based on the youtube series named "Geant4 Tutorial"
+by Mustafa Schmidt, youtube channel name "Physics Matters" https://www.youtube.com/@physics_matters 
+
+Written by Joseph Rodriguez Fernandez
+*/
 #include <iostream>
 
 #include "G4RunManager.hh"
